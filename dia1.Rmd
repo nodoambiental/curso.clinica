@@ -1,0 +1,36 @@
+---
+title: "día 1"
+output:
+  pdf_document: default
+  html_document: default
+  slidy_presentation: default
+  ioslides_presentation: default
+  github_document: default
+  md_document: default
+  beamer_presentation: default
+date: "4 de diciembre de 2018"
+subtitle: formato *long*
+---
+\pagenumbering{gobble}
+\pagenumbering{arabic} 
+\setlength{\parskip}{2pt}
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**quehacer** | **consigna** | **material** | **minutos**
+:------ | :------ | :------ | ------:
+presentación | presentaciones personales | NA | 50
+organización del curso | explicaciones varias | NA | 30
+sondeo | ejercicio para cursantes | letrario.xls | 45
+recreo | menesteres | NA | 15
+teórico | presentación del docente | charla1 | 60
+la pregunta del día | formulación de cursantes | preguntas1.xls | 15
+ejercicio | ejercicio para cursantes 1 y 2 | loma.xls | 30
+almuerzo | alimentación | NA | 90
+puesta a punto de software | solucionar problemas de software | NA | 30
+ejercicio | interpretación de estudio publicado | hermes.xls | 150
+recreo | menesteres | NA | 15
+la pregunta del día | respuestas del docente | pre1.xls | 60
+
+
