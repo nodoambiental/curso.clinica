@@ -1,0 +1,243 @@
+---
+title: "Clínica de Datos e Investigación en Biología"
+subtitle: "curso de posgrado"
+output:
+  pdf_document: default
+  html_document: default
+date: "2018-2019"
+---
+\pagenumbering{gobble}
+\pagenumbering{arabic} 
+\setlength{\parskip}{2pt}
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+#### Lugar
+Facultad de Ciencias Naturales e Instituto Miguel Lillo,
+Secretaría de Posgrado, San Lorenzo 1448, San Miguel de Tucumán,  Tucumán, Argentina
+
+#### Destinatarios
+Estudiantes graduados de carreras afines a las ciencias biológicas, agrarias, bioquímicas, biomédicas, forestales, biotecnología, veterinaria y zootecnia, profesionales interesados en investigaciones biológicas.
+
+#### Docente
+Mariano Ordano 
+
+Fundación Miguel Lillo & Unidad Ejecutora Lillo (UEL-FML-CONICET)
+
+#### Coordinación
+María Elisa Fanjul
+
+Facultad de Ciencias Naturales e Instituto Miguel Lillo & Fundación Miguel Lillo
+
+#### Auspicio
+Colegio de Graduados en Ciencias Biológicas de Tucumán
+
+#### Carga horaria
+96 horas
+
+#### Modalidad
+Presencial con asistencia remota.
+4 sesiones de 2 días contiguos.
+
+#### Fechas
+\begin{itemize}
+ \item[] 4-5 diciembre 2018
+ \item[] 26-27 febrero 2019
+ \item[] 16-17 abril 2019
+ \item[] 28-29 mayo 2019
+\end{itemize} 
+
+#### Objetivos
+Comprender y articular de manera congruente aproximaciones de investigación, diseño de investigación, muestreo, métodos para el manejo, exploración, análisis de datos y reportes de investigación biológica.
+
+#### Orientación
+Orientado para brindar herramientas básicas en investigación en biología, con énfasis en la articulación entre los objetivos y desarrollo de investigaciones, los conceptos, el diseño de investigación, el manejo de datos, el análisis cuantitativo y el reporte de la investigación. 
+Tiene un sesgo en biología y particularmente en ecología, con aplicación a otras disciplinas que involucran el manejo intensivo de información.
+Dirigido a estudiantes de posgrado.
+
+#### Contenidos
+1. Introducción a la investigación biológica. Aproximaciones conceptuales. Representaciones y modelos de la realidad. Organización de la investigación y de la información. Proyectos, preguntas, hipótesis, predicciones, muestreo, diseño y estadística en biología. Clasificación de variables. Posibilidad, probabilidad e inferencia. Aproximaciones y modelos.
+2. Manejo de bases de datos. Uso de programas. Aplicaciones en R. Exploración, auscultación, búsqueda y congruencia de la información. Repetición, reproducción y verificación. Organización de la información, presentación tabular y gráfica.
+3. Aproximaciones estadísticas. Escala, unidades y variación. Matrices de datos. Análisis univariados y multivariados. Tiempo y espacio. Aplicaciones y niveles de organización biológica (individuos, poblaciones y comunidades). Revisión, meta-análisis y síntesis.
+4. Taller y clínica de proyectos.
+
+#### Evaluación
+Basada en el desempeño en clase, en los proyectos grupales e individuales y en un examen final. 
+Desempeño en trabajo grupal: 25 %. 
+Desempeño en trabajo individual: 50 %. 
+Examen final: 25 %. 
+Nota mínima de aprobación: 70/100
+
+#### Asistencia
+Se requiere asistencia completa.
+
+#### Bibliografía
+\setlength{\parindent}{-0.2in}
+\setlength{\leftskip}{0.2in}
+\setlength{\parskip}{2pt}
+\noindent
+
+Board on Biology, National Research Council. 2000. *Bioinformatics: Converting Data to Knowledge*. A Workshop Summary by R. Pool & J. Esnayra. The National Academy Press.
+
+Bolker, B. 2007. *Ecological Models and Data in R*. Princenton University Press.
+
+Borcard D., F. Gillet & P. Legendre. 2011. *Numerical Ecology with R*. Springer Science+Business Media.
+
+British Ecological Society. 2017. *A guide to data management in ecology and evolution*. URL: https://www.britishecologicalsociety.org/wp-content/uploads/2017/06/BES-Data-Guide-2017_web.pdf
+
+Cantrell, B., L. J. Martin, E. C. Ellis. 2017. *Designing autonomy: Opportunities for new wildness in the Anthropocene*. Trends in Ecology & Evolution 32: 156-166.
+
+Chen, C.-H., W. Härdle & A. Unwin (eds.). 2008. *Handbook of Data Visualization*. Springer-Verlag.
+
+Crawley, M. J. 2013. *The R Book*. John Wiley & Sons, Ltd.
+
+Donovan, M. S. & J. D. Bransford (eds.). 2005. *How Students Learn: Science in the Classroom*. Committee on How People Learn: A Targeted Report for Teachers, National Research Council. The National Academy Press.
+
+Editorial Nature Cell Biology. 2017. *Enhancing the quality and transparency of reporting*. 19: 741.
+
+Excel Data Base Management-Microsoft Excel 2003. *Reference Guide*. 2003. University of Denver. University Technology Sevices. Computer Training. EBook Publishing.
+
+Feinsinger, P. 2003. *El Diseño de Estudios de Campo para la Conservación de la Biodiversidad*. Editorial FAN, Santa Cruz de la Sierra, Bolivia.
+
+Fidler, F., Y. E. Chee, B. C. Wintle, M. A. Burgman, M. A. McCarthy & A. Gordon. 2017. *Metaresearch for evaluating reproducibility in ecology and evolution*. BioScience 67: 282-289.
+
+Fox, G. A., S. Negrete-Yankelevich & V. J. Sosa. 2015. *Ecological Statistics: Contemporary Theory and Application*. Oxford University Press.
+
+Gardener, M. 2012. *Statistics for Ecologists Using R and Excel. Data Collection, Exploration Analysis and Presentation*. Pelagic Publishing.
+
+Gelman, A. & J. Hill. 2007. *Data Analysis Using Regression and multilevel/hierarchical models*. Cambridge University Press.
+
+Gotelli, N. J. & A. M. Ellison. 2013. *A Primer of Ecological Statistics*. Sinauer Associates Inc.
+
+Günther, O. 1998. *Environmental Information Systems*. Springer Verlag GmbH & Co Publishers. 
+
+Heiberger, R. M. & E. Neuwirth. 2009. *R Through Excel. A Spreadsheet Interface for Statistics, Data Analysis, and Graphics*. Springer Science+Business Media.
+
+Hilborn, R. & M. Mangel. 1997. *The Ecological Detective: Confronting Models with Data*. Princenton University Press.
+
+Kokko, H. 2007. *Modelling for Field Biologists and Other Interesting People*. Cambridge University Press.
+
+Koricheva, J., Gurevitch, J., & Mengersen, K. (Eds.). (2013). *Handbook of Meta-analysis in Ecology and Evolution*. Princeton University Press.
+
+Logan, M. 2010. *Biostatistical Design and Analysis Using R : a practical guide*. John Wiley & Sons.
+
+Lu, M., S. Chen, C. Lai, L. Lin & X. Yuan. 2017. *Frontier of information visualization and visual analytics in 2016*. Journal of Visualization 20: 667-686.
+
+Maturana, H. & F. Varela. 1989. *El Árbol del Conocimiento. Las Bases Biológicas del Conocimiento Humano*. Debate, España.
+
+Matloff, N. 2011. *The Art of R Programming. A Tour of Statistical Software Design*. No Starch Press.
+
+Mayr, E. 1994. *Typological versus population thinking*. Pp. 157-160, in Sober, E. (ed.). Conceptual Issues in Evolutionary Biology. MIT Press. 
+
+McInerny G. J., M. Chen, R. Freeman, D. Gavaghan, M. Meyer, F. Rowland, D. J. Spiegelhalter, M. Stefaner, G. Tessarolo & J. Hortal. 2014. *Information visualisation for science and policy: engaging users and avoiding bias*. Trends in Ecology & Evolution 29: 148-157.
+
+McInnes, M. D., D. Moher, D., B. D. Thombs, T. A. McGrath, P. M. Bossuyt, T. Clifford, T., H. A. Hunt & PRISMA-DTA Group. 2018. *Preferred reporting items for a systematic review and meta-analysis of diagnostic test accuracy studies: the PRISMA-DTA statement*. Jama 319: 388-396.
+
+Michener, M. 2006. *Meta-information concepts for ecological data management*. Ecological Informatics 1: 3-7.
+
+Platt, J. R. 1964. *Strong inference*. Science 146: 347-353.
+
+Pullin, A. S. & G. B. Stewart. 2006. *Guidelines for systematic review in conservation and environmental management*. Conservation Biology 20: 1647-1656.
+
+Quinn, G. P. & M. J. Keough. 2002. *Experimental Design and Data Analysis for Biologists*. Cambridge University Press.
+
+Rodriguez-Sanchez, F., A. J. Pérez-Luque, I. Bartomeus & S. Varela. 2016. *Ciencia reproducible: qué, por qué, cómo*. Revista Ecosistemas 25: 83-92.
+
+Rojas, M. 2002. *Manual de Investigación y Redacción Científica*. Book Xx press.
+
+Sagarin, R. & A. Pauchard. 2012. *Observation and Ecology : broadening the scope of science to understand a complex world*. Island Press.
+
+Sand-Jensen, K. 2007. *How to write consistently boring scientific literature*. Oikos 116: 723-727.
+
+Schulz, H. J., T. Nocke, M. Heitzler & H. Schumann. 2017. *A systematic view on data descriptors for the visual analysis of tabular data*. Information Visualization 16: 232-256.
+
+Shipley, B. 2000. *Cause & Correlation in Biology: A user’s guide to path analysis, structural equations & causal inference*. Cambridge University Press.
+
+Stevens, M. H. H. 2009. *A Primer of Ecology with R*. Springer Science+Business Media, LLC.
+
+Wang, X., Y. Guo, M. Yang, Y. Chen & W. Zhang. 2017. *Information ecology research: past, present, and future*. Information Technology and Management 18: 27-39.
+
+Zuur, A. F., E. N. Ieno & C. S. Elphick. 2010. *A protocol for data exploration to avoid common statistical problems*. Methods in Ecology and Evolution 1: 3-14.
+
+\setlength{\parindent}{0in}
+\setlength{\leftskip}{0in}
+\setlength{\parskip}{2pt}
+\noindent
+
+#### Software y recursos de Internet
+
+##### R
+https://www.r-project.org/
+
+https://cran.r-project.org/
+
+- Manuals
+- Contributed - Contributed Documentation - Other Languages
+- Packages - Contributed Packages - CRAN Task Views
+
+##### Excel
+How to use Microsoft Excel. 
+
+http://www.saylor.org/books
+
+http://www.humboldt.org.co/es/test/item/273-manual-de-metodos-para-el-desarrollo-de-inventarios-de-biodiversidad
+
+##### Otras fuentes de interacción, inspiración y aprendizaje
+https://www.rstudio.com
+
+https://www.r-bloggers.com/
+
+http://www.statmethods.net/
+
+https://stackoverflow.com/
+
+https://stats.stackexchange.com/
+
+http://www.sthda.com/english/
+
+http://spatstat.org/
+
+https://socserv.mcmaster.ca/jfox/Misc/Rcmdr/
+
+http://www.r-graph-gallery.com/
+
+https://plot.ly/r/
+
+http://wiki.imbiv.unc.edu.ar/index.php/Gu%C3%ADa_de_campo_de_R
+
+http://santiagombv.github.io/
+
+http://rchibchombia.blogspot.com.ar/
+
+http://apuntes-r.blogspot.com.ar/
+
+http://www.listendata.com/p/r-programming-tutorials.html
+
+http://qcbs.ca/wiki/resources_for_r
+
+http://www.introductoryr.co.uk/R_Resources_for_Beginners.html
+
+http://www.r-exercises.com/
+
+http://www.rdatamining.com/
+
+http://www.datasciencecentral.com
+
+https://www.wolframalpha.com/
+
+https://plato.stanford.edu/
+
+https://www.datacamp.com/
+
+https://bookdown.org/yihui/blogdown/
+
+https://www.latex-project.org/
+
+https://pydata.org/
+
+http://www.prisma-statement.org/Extensions/IndividualPatientData.aspx
+
+https://www.britishecologicalsociety.org/publications/guides-to/
+
+#### Contacto
+cursoclinicadedatos@gmail.com
