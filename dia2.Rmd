@@ -1,0 +1,37 @@
+---
+title: "día 2"
+output:
+  pdf_document: default
+  html_document: default
+  slidy_presentation: default
+  ioslides_presentation: default
+  github_document: default
+  md_document: default
+  beamer_presentation: default
+date: "5 de diciembre de 2018"
+subtitle: formato *wide*
+---
+\pagenumbering{gobble}
+\pagenumbering{arabic} 
+\setlength{\parskip}{2pt}
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**quehacer** | **consigna** | **material** | **minutos**
+:------ | :------ | :------ | ------:
+sondeo | ejercicio para cursante | asado.xls | 60
+teórico | presentación del docente | charla2 | 60
+la pregunta del día | formulación de cursantes | preguntas2.xls | 15
+recreo | menesteres | NA | 15
+ejercicio | ejercicio para cursantes | planilleros.xls | 90
+almuerzo | alimentación | NA | 90
+puesta a punto de software | solucionar problemas de software | NA | 30
+ejercicio | Excel y R | base | 30
+recreo | menesteres | NA | 15
+la pregunta del día | respuestas del docente | pre2.xls | 60
+ejercicio | previa de proyectos | NA | 80
+cierre sesión 1 | previa de asistencia remota | NA | 15
+
+
+
