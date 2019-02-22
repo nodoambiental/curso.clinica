@@ -1,7 +1,7 @@
 # curso.clinica
 construcción del curso clínica de datos e investigación en biología
 
-detalles del curso en "propuesta.Rmd"
+- propuesta y programa del curso en "propuesta.Rmd"
 
+- primera presentación del curso en "presentacion.odp"
 
-primera presentación del curso en "presentación.odp"
