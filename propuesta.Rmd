@@ -43,7 +43,7 @@ Presencial con asistencia remota.
 \begin{itemize}
  \item[] 4-5 diciembre 2018
  \item[] 26-27 febrero 2019
- \item[] 16-17 abril 2019
+ \item[] 15-16 abril 2019
  \item[] 28-29 mayo 2019
 \end{itemize} 
 
