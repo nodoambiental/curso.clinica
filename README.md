@@ -1,5 +1,5 @@
 # curso.clinica
-construcción del curso clínica de datos e investigación en biología
+construcción del curso _Clínica de Datos e Investigación en Biología_
 
 - propuesta y programa del curso en "propuesta.Rmd"
 
