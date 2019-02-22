@@ -1,5 +1,5 @@
 # curso.clinica
-construcción del curso *_Clínica de Datos e Investigación en Biología_*
+construcción del curso _*Clínica de Datos e Investigación en Biología*_
 
 - propuesta y programa del curso en "propuesta.Rmd"
 
